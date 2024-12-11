@@ -1,4 +1,4 @@
-# Sistema de Operações Matemáticas
+# Sistema de Operações Matemáticos
 
 ## Descrição 
 
